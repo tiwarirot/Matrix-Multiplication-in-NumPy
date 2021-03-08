@@ -1,2 +1,2 @@
-# Matric-Multiplication-in-NumPy
+# Matrix-Multiplication-in-NumPy
 We will deep dive into use of Matrix Multiplication using NumPy.
